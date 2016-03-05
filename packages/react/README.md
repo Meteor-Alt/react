@@ -21,7 +21,7 @@ api.use('react@0.14.3')
 with
 
 ```
-api.use('alt:react@1.0.0')
+api.use('alt:react@1.0.1')
 ```
 
 ## Application Requirements (Meteor React)
